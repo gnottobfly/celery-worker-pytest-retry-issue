@@ -1,0 +1,8 @@
+# Use postgres/example user/password credentials
+version: '3.9'
+
+services:
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"

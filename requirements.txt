@@ -1,0 +1,3 @@
+celery[redis]
+pytest
+pytest-celery<1.0.0
